@@ -1,0 +1,37 @@
+body {
+    background: black;
+    font-family: Verdana, sans-serif;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+.downloadAnchor {
+    font-size: 16px;
+    color: aquamarine;
+}
